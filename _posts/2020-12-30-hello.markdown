@@ -1,0 +1,26 @@
+---
+layout:     post
+title:      "Hello 2020"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2020-12-30 12:00:00
+author:     "ruby"
+catalog: true
+tags:
+    - Blog
+---
+
+> “Yeah It's on. ”
+
+
+Ruby Lab Blog 블로그를 시작。
+
+2020년 12월 블로드 만들어보기
+
+## 마크다운
+
+테스트를 해본다.  
+
+리파지토리를 살펴보고 싶으면 참고 해보자. [GitHub Pages](https://github.com/uunnaa/ruby-lab.github.io)
+
+
+
